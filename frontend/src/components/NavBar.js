@@ -44,7 +44,7 @@ export const NavBar = () => {
           <span className="navbar-text social-icon">
             <a href="https://www.linkedin.com/in/vishakha-aggarwal-49b348206/"><img src={linkedin} alt="" /></a>
             <a href="https://github.com/vishakha-aggarwal"><img src={githubLogo} alt="" /></a>
-            <a href="https://www.instagram.com/251_vishakha/"><img src={instagram} alt="" /></a>
+            <a href="mailto:vishakhaaggarwal251@gmail.com"><img src={instagram} alt="" /></a>
           </span>
         </Navbar.Collapse>
       </Navbar>
