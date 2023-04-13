@@ -76,7 +76,7 @@ export const Skills = () => {
                           <div class="bullet"></div>
                           <h4 style={{ paddingLeft: "10px" }}>Redux</h4>
                           <h5 style={{ paddingLeft: "10px", color: "grey" }}>
-                            (Advanced)
+                            (Intermediate)
                           </h5>
                         </div>
                         <div className="outerCont" style={{ display: "flex" }}>

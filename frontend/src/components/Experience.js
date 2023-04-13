@@ -24,14 +24,14 @@ const Experience = () => {
           <div class="details-container" style={{paddingLeft: "30px"}}>
               <h4>Open Source Mentee</h4>
               <h6>Codess.Cafe</h6>
-              <p>Oct 2022 - Prpent</p>
+              <p>Oct 2022 - Present</p>
           </div>
           <div class="logo-container">
           </div>
           <div class="details-container" style={{paddingLeft: "30px"}}>
               <h4>Open Source Contributor</h4>
               <h6>Rocket.Chat</h6>
-              <p>Jan 2023 - Map2023</p>
+              <p>Jan 2023 - May2023</p>
           </div>
           <div class="logo-container">
           </div>

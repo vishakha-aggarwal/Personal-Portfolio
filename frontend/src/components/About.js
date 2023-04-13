@@ -32,7 +32,7 @@ export const About = () => {
               using developer tools like Git, Github, VS Code, Postman, and NPM
               packages, and in hosting with Heroku, Netlify, Vercel, and
               Firebase. I love building real-world projects. Apart from
-              development, I loves practicing DSA & Competitive Programming and
+              development, I love practicing DSA & Competitive Programming and
               contributes to Open Source. I have solved more than 1400+ question
               across different platforms. Currently, I am Senior Team Member of
               NSCC society - BPIT. Previously, I have worked with Pepcoding as a
