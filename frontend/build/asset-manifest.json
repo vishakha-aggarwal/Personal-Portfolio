@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49d708b2.css",
+    "main.js": "/static/js/main.6c87b9b0.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/welcome.gif": "/static/media/welcome.59e7ef6e8dfc020bc956.gif",
+    "static/media/chatterbox.jpg": "/static/media/chatterbox.3a48c32a9e863a4fd7ae.jpg",
+    "static/media/portfolio.jpg": "/static/media/portfolio.544fa25cae0e630ff5bd.jpg",
+    "static/media/profilePic.png": "/static/media/profilePic.b3d203772202739e4070.png",
+    "static/media/fundraiser.jpg": "/static/media/fundraiser.683a52601cc9f87f56ce.jpg",
+    "static/media/openSource.jpg": "/static/media/openSource.2ea9c10754bdc2ee6973.jpg",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/leetcode.png": "/static/media/leetcode.d93415a7ae3c7eaaf582.png",
+    "static/media/github.png": "/static/media/github.7d29983a742281e9ecc1.png",
+    "static/media/groupChat.png": "/static/media/groupChat.c2346da7eb67403058d1.png",
+    "static/media/gfg.png": "/static/media/gfg.2ca802804ec3171b1781.png",
+    "static/media/githubLogo.jpg": "/static/media/githubLogo.f626a6d533e5512b7168.jpg",
+    "static/media/linkedin.jpg": "/static/media/linkedin.05b309e5f0f04b3fea72.jpg",
+    "static/media/instagram.jpg": "/static/media/instagram.2bc82b45c3a571e8c664.jpg",
+    "static/media/board.png": "/static/media/board.d426d5858dba08aa5d18.png",
+    "index.html": "/index.html",
+    "main.49d708b2.css.map": "/static/css/main.49d708b2.css.map",
+    "main.6c87b9b0.js.map": "/static/js/main.6c87b9b0.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49d708b2.css",
+    "static/js/main.6c87b9b0.js"
+  ]
+}
