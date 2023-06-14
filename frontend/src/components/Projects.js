@@ -9,19 +9,20 @@ import board from "../assets/img/board.png";
 import openSource from "../assets/img/openSource.jpg";
 import todos from "../assets/img/todos.jpg";
 import portfolio from "../assets/img/portfolio.jpg";
+import artvista from "../assets/img/artvista.jpg";
 
 export const Projects = () => {
   
   const projects = [
     {
-      title: "Shopzone",
+      title: "Art Vista",
       description: "(FullStack Project)",
-      imgUrl: shopzone,
+      imgUrl: artvista,
       type: "web",
-      link: "https://github.com/vishakha-aggarwal/Shopzone",
+      link: "https://github.com/vishakha-aggarwal/ArtVista",
     },
     {
-      title: "Fund Raiser Campaign",
+      title: "FundQuest",
       description: "(Ethereum Blockchain Development)",
       imgUrl: fundraiser,
       type: "blockchain",
@@ -40,6 +41,13 @@ export const Projects = () => {
       imgUrl: portfolio,
       type: "web",
       link: "https://github.com/vishakha-aggarwal/Personal-Portfolio",
+    },
+    {
+      title: "Shopzone",
+      description: "(FullStack Project)",
+      imgUrl: shopzone,
+      type: "web",
+      link: "https://github.com/vishakha-aggarwal/Shopzone",
     },
     {
       title: "Group Chat Application",
